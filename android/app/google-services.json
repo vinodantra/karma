@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "760938335592",
+    "firebase_url": "https://karma-tracking.firebaseio.com",
+    "project_id": "karma-tracking",
+    "storage_bucket": "karma-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760938335592:android:f7ac8acdea0d6214a81add",
+        "android_client_info": {
+          "package_name": "com.antraweb.KARMA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760938335592-k9ib4mdesmk554pgikkslgv4s17p6g73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5ey-pyxz-SzS1OtdPBV4XsUxguJ5koA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760938335592-k9ib4mdesmk554pgikkslgv4s17p6g73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760938335592:android:963e69f1ccca394ba81add",
+        "android_client_info": {
+          "package_name": "com.antraweb.newkarma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760938335592-k9ib4mdesmk554pgikkslgv4s17p6g73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5ey-pyxz-SzS1OtdPBV4XsUxguJ5koA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760938335592-k9ib4mdesmk554pgikkslgv4s17p6g73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
